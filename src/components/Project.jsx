@@ -15,7 +15,7 @@ const Project = () => {
                 alt={project.title}
                 className="mb-16 rounded"
               />
-              <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 hover:opacity-100"
+              <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-60 opacity-0 transition-opacity duration-300 hover:opacity-100"
               style={{ width: '63%', height: '70%', margin: 'auto',bottom: '30%',right: '100%', borderRadius: '8px' }}>
                 <a
                   href={project.github}
