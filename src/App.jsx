@@ -2,7 +2,7 @@ import About from "./components/About";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Technologies from "./components/technologies"
-import Experience from "./components/experience"
+import Experience from "./components/Experience"
 import Project from "./components/Project";
 import Contact from "./components/Contact";
 const App = () => {
